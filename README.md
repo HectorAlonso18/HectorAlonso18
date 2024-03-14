@@ -26,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hectoralonso18&show_icons=true&locale=en&theme=dark" alt="hectoralonso18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hectoralonso18&theme=dark" alt="hectoralonso18" /></p>
 
